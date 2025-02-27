@@ -1,6 +1,6 @@
 function env_() {
     return{
-        ID_DATABASE:"1kOZMD6enpzDcatkpVVvAPA1wSCoCS_iiIdHMqmS9XcU",
-        SH_REGISTRO_USUARIOS:"Registro Usuarios",
+        ID_DATABASE:"1WCaSDKBrxC_HE7wKekG8yWxgOauhaaMevGC3jKUYZys",
+        SH_REGISTRO_USUARIOS:"Registros Usuarios",
     };
 }
